@@ -1,0 +1,14 @@
+﻿빌드 시작: 2013-12-03 오전 10:39:51
+     1>2 노드의 "C:\Users\DH\Desktop\Merry Christmas3\Merry Christmas\Merry Christmas.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DH\Desktop\Merry Christmas3\Release\Merry Christmas.exe" /INCREMENTAL:NO /NOLOGO libpng.lib ZLib.lib opengl32.lib glut32.lib glu32.lib glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DH\Desktop\Merry Christmas3\Release\Merry Christmas.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DH\Desktop\Merry Christmas3\Release\Merry Christmas.lib" /MACHINE:X86 /SAFESEH /safeseh:no Release\main.obj
+         "..\..\Dropbox\Christmas Tree CG\22_백대현, 이민아\Merry Christmas2\Merry Christmas\libpng.lib"
+         "..\..\Dropbox\Christmas Tree CG\22_백대현, 이민아\Merry Christmas2\Merry Christmas\ZLib.lib"
+     1>libpng.lib(pngerror.obj) : error LNK2001: __iob 외부 기호를 확인할 수 없습니다.
+     1>libpng.lib(pngrutil.obj) : error LNK2001: __iob 외부 기호를 확인할 수 없습니다.
+     1>C:\Users\DH\Desktop\Merry Christmas3\Release\Merry Christmas.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"C:\Users\DH\Desktop\Merry Christmas3\Merry Christmas\Merry Christmas.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.16
